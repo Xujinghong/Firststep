@@ -8550,6 +8550,485 @@ orderVector no data
 
 
 
+
+
+running_AchieveCombine_2
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+result :8
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :83
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+result :8
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :82
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+result :8
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :81
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+result :8
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :80
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+result :9
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :91
+iSize :3
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+result :9
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :90
+iSize :3
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+fullLoadedVehicle no result from functon UsingGroupToDistributeFreight
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+result :8
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :80
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+result :8
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :81
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+result :8
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :82
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+result :8
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :83
+iSize :2
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:00:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 10:05:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+result :9
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :91
+iSize :3
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+result :9
+True of ChooseVehicleOneToOneNetwork
+True of ChooseVehicleTestOneToOneNetwork
+plan :90
+iSize :3
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :5
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 10:51:00
+iSize :5
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 10:51:00
+Step1 OK!
+Step2 OK!
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+span :0.0618056
+length :0.0618056
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 09:44:00
+iSize :5
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 07:49:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 10:51:00
+iSize :4
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_StartWorkingTime :0
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 08:50:00
+alt_CloseTime :2999/12/31 23:59:59
+alt_LeaveTime :2019/12/06 09:50:00
+alt_CloseTime :2019/12/06 09:30:00
+alt_LeaveTime :2019/12/06 10:51:00
+
+
+
+
+
+
 {
         "AssignedVechiles" :
         [
