@@ -6561,6 +6561,1584 @@ NO.1orderGroups size is :1
 orderVector no data
 
 
+{
+        "AssignedVechiles" :
+        [
+                {
+                        "GoodsVolume" : 12.48,
+                        "GoodsWeight" : 100000.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.69333332777023315,
+                                "m_fMaxWeightRatio" : 0.033333335071802139,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "1002"
+                        },
+                        "LoadingTime" : 50,
+                        "MaxVolumeDistance" : 1394748.0,
+                        "MaxWeightDistance" : 232458000000.0,
+                        "UnLoadingTime" : 30,
+                        "VolumeDistance" : 437798.40000000002,
+                        "WeightDistance" : 3508000000.0,
+                        "m_dWithGoodsDistance" : 35080.0,
+                        "m_fTransferDistance" : 35080.0,
+                        "m_fTransferedFee" : 52805.0,
+                        "m_fVolumeDistanceRatio" : 0.31389068132737957,
+                        "m_fWeightDistanceRatio" : 0.015090898140739403,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "1002",
+                        "m_sPureRunTime" : 46.0,
+                        "m_sRunTime" : 126.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : 12.48,
+                                        "LoadWei" : 100000.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/07/24 06:24:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 06:24:00",
+                                        "alt_LeaveTime" : "2019/07/24 07:14:00",
+                                        "alt_StartTime" : "2019/07/24 06:24:00",
+                                        "m_fMaxVolumeRatio" : 36.705882352941174,
+                                        "m_fMaxWeightRatio" : 0.033333333333333333,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "228",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1509,
+                                                                        "m_iLoadedGoodsAmount" : 16,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 16,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1511,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "46"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1510,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "45"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/07/24 08:00:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 08:30:00",
+                                        "alt_LeaveTime" : "2019/07/24 08:30:00",
+                                        "alt_StartTime" : "2019/07/24 07:14:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "246",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1509,
+                                                                        "m_iLoadedGoodsAmount" : 16,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 16,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1511,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "46"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1510,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "45"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 1509,
+                                        "m_iLoadedGoodsAmount" : 16,
+                                        "m_iTransferAmount" : 16,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "44"
+                                },
+                                {
+                                        "m_iGoodsID" : 1511,
+                                        "m_iLoadedGoodsAmount" : 8,
+                                        "m_iTransferAmount" : 8,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "46"
+                                },
+                                {
+                                        "m_iGoodsID" : 1510,
+                                        "m_iLoadedGoodsAmount" : 8,
+                                        "m_iTransferAmount" : 8,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "45"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "228"
+                                },
+                                {
+                                        "setTravelingRoute" : "246"
+                                }
+                        ]
+                },
+                {
+                        "GoodsVolume" : 17.540000000000003,
+                        "GoodsWeight" : 175100.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.97444444894790649,
+                                "m_fMaxWeightRatio" : 0.058366667479276657,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "1002"
+                        },
+                        "LoadingTime" : 50,
+                        "MaxVolumeDistance" : 1394748.0,
+                        "MaxWeightDistance" : 232458000000.0,
+                        "UnLoadingTime" : 30,
+                        "VolumeDistance" : 615303.19999999995,
+                        "WeightDistance" : 6142508000.0,
+                        "m_dWithGoodsDistance" : 35080.0,
+                        "m_fTransferDistance" : 35080.0,
+                        "m_fTransferedFee" : 52805.0,
+                        "m_fVolumeDistanceRatio" : 0.44115725564761515,
+                        "m_fWeightDistanceRatio" : 0.026424162644434694,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "1002",
+                        "m_sPureRunTime" : 46.0,
+                        "m_sRunTime" : 126.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : 17.539999999999999,
+                                        "LoadWei" : 175100.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/07/24 06:24:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 06:24:00",
+                                        "alt_LeaveTime" : "2019/07/24 07:14:00",
+                                        "alt_StartTime" : "2019/07/24 06:24:00",
+                                        "m_fMaxVolumeRatio" : 51.588235294117645,
+                                        "m_fMaxWeightRatio" : 0.058366666666666664,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "228",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1504,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "39"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1506,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "41"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1512,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "47"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1513,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "48"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1509,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/07/24 08:00:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 08:30:00",
+                                        "alt_LeaveTime" : "2019/07/24 08:30:00",
+                                        "alt_StartTime" : "2019/07/24 07:14:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "246",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1504,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "39"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1506,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "41"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1512,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "47"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1513,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "48"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1509,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 1504,
+                                        "m_iLoadedGoodsAmount" : 13,
+                                        "m_iTransferAmount" : 13,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "39"
+                                },
+                                {
+                                        "m_iGoodsID" : 1506,
+                                        "m_iLoadedGoodsAmount" : 13,
+                                        "m_iTransferAmount" : 13,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "41"
+                                },
+                                {
+                                        "m_iGoodsID" : 1512,
+                                        "m_iLoadedGoodsAmount" : 8,
+                                        "m_iTransferAmount" : 8,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "47"
+                                },
+                                {
+                                        "m_iGoodsID" : 1513,
+                                        "m_iLoadedGoodsAmount" : 8,
+                                        "m_iTransferAmount" : 8,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "48"
+                                },
+                                {
+                                        "m_iGoodsID" : 1509,
+                                        "m_iLoadedGoodsAmount" : 8,
+                                        "m_iTransferAmount" : 8,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "44"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "228"
+                                },
+                                {
+                                        "setTravelingRoute" : "246"
+                                }
+                        ]
+                },
+                {
+                        "GoodsVolume" : 17.335499999999996,
+                        "GoodsWeight" : 126100.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.96091663837432861,
+                                "m_fMaxWeightRatio" : 0.042033333331346512,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "1002"
+                        },
+                        "LoadingTime" : 50,
+                        "MaxVolumeDistance" : 1394748.0,
+                        "MaxWeightDistance" : 232458000000.0,
+                        "UnLoadingTime" : 30,
+                        "VolumeDistance" : 606761.22000000009,
+                        "WeightDistance" : 4423588000.0,
+                        "m_dWithGoodsDistance" : 35080.0,
+                        "m_fTransferDistance" : 35080.0,
+                        "m_fTransferedFee" : 52805.0,
+                        "m_fVolumeDistanceRatio" : 0.43503286615216519,
+                        "m_fWeightDistanceRatio" : 0.019029622555472386,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "1002",
+                        "m_sPureRunTime" : 46.0,
+                        "m_sRunTime" : 126.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : 17.296500000000002,
+                                        "LoadWei" : 126100.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/07/24 06:24:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 06:24:00",
+                                        "alt_LeaveTime" : "2019/07/24 07:14:00",
+                                        "alt_StartTime" : "2019/07/24 06:24:00",
+                                        "m_fMaxVolumeRatio" : 50.872058823529414,
+                                        "m_fMaxWeightRatio" : 0.042033333333333332,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "228",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1507,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1505,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "40"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1508,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "43"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/07/24 08:00:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 08:30:00",
+                                        "alt_LeaveTime" : "2019/07/24 08:30:00",
+                                        "alt_StartTime" : "2019/07/24 07:14:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "246",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1507,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1505,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "40"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1508,
+                                                                        "m_iLoadedGoodsAmount" : 13,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 13,
+                                                                        "m_sArriveLocationCode" : "246",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "43"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 1507,
+                                        "m_iLoadedGoodsAmount" : 13,
+                                        "m_iTransferAmount" : 13,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "42"
+                                },
+                                {
+                                        "m_iGoodsID" : 1505,
+                                        "m_iLoadedGoodsAmount" : 13,
+                                        "m_iTransferAmount" : 13,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "40"
+                                },
+                                {
+                                        "m_iGoodsID" : 1508,
+                                        "m_iLoadedGoodsAmount" : 13,
+                                        "m_iTransferAmount" : 13,
+                                        "m_sArriveLocationCode" : "246",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "43"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "228"
+                                },
+                                {
+                                        "setTravelingRoute" : "246"
+                                }
+                        ]
+                },
+                {
+                        "GoodsVolume" : 11.9,
+                        "GoodsWeight" : 108500.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.99166667461395264,
+                                "m_fMaxWeightRatio" : 0.027124999091029167,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "1003"
+                        },
+                        "LoadingTime" : 50,
+                        "MaxVolumeDistance" : 987276.0,
+                        "MaxWeightDistance" : 329092000000.0,
+                        "UnLoadingTime" : 30,
+                        "VolumeDistance" : 450748.20000000001,
+                        "WeightDistance" : 4109763000.0,
+                        "m_dWithGoodsDistance" : 37878.0,
+                        "m_fTransferDistance" : 37878.0,
+                        "m_fTransferedFee" : 45709.6015625,
+                        "m_fVolumeDistanceRatio" : 0.45655743682617628,
+                        "m_fWeightDistanceRatio" : 0.012488188713186587,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "1003",
+                        "m_sPureRunTime" : 49.0,
+                        "m_sRunTime" : 129.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : 11.9,
+                                        "LoadWei" : 108500.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/07/24 06:21:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 06:21:00",
+                                        "alt_LeaveTime" : "2019/07/24 07:11:00",
+                                        "alt_StartTime" : "2019/07/24 06:21:00",
+                                        "m_fMaxVolumeRatio" : 14.0,
+                                        "m_fMaxWeightRatio" : 0.027125,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "228",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1499,
+                                                                        "m_iLoadedGoodsAmount" : 7,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 7,
+                                                                        "m_sArriveLocationCode" : "231",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "46"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1498,
+                                                                        "m_iLoadedGoodsAmount" : 7,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 7,
+                                                                        "m_sArriveLocationCode" : "231",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "45"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1497,
+                                                                        "m_iLoadedGoodsAmount" : 21,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 21,
+                                                                        "m_sArriveLocationCode" : "231",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/07/24 08:00:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 08:30:00",
+                                        "alt_LeaveTime" : "2019/07/24 08:30:00",
+                                        "alt_StartTime" : "2019/07/24 07:11:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "231",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1499,
+                                                                        "m_iLoadedGoodsAmount" : 7,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 7,
+                                                                        "m_sArriveLocationCode" : "231",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "46"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1498,
+                                                                        "m_iLoadedGoodsAmount" : 7,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 7,
+                                                                        "m_sArriveLocationCode" : "231",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "45"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1497,
+                                                                        "m_iLoadedGoodsAmount" : 21,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 21,
+                                                                        "m_sArriveLocationCode" : "231",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 1499,
+                                        "m_iLoadedGoodsAmount" : 7,
+                                        "m_iTransferAmount" : 7,
+                                        "m_sArriveLocationCode" : "231",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "46"
+                                },
+                                {
+                                        "m_iGoodsID" : 1498,
+                                        "m_iLoadedGoodsAmount" : 7,
+                                        "m_iTransferAmount" : 7,
+                                        "m_sArriveLocationCode" : "231",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "45"
+                                },
+                                {
+                                        "m_iGoodsID" : 1497,
+                                        "m_iLoadedGoodsAmount" : 7,
+                                        "m_iTransferAmount" : 7,
+                                        "m_sArriveLocationCode" : "231",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "44"
+                                },
+                                {
+                                        "m_iGoodsID" : 1497,
+                                        "m_iLoadedGoodsAmount" : 7,
+                                        "m_iTransferAmount" : 7,
+                                        "m_sArriveLocationCode" : "231",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "44"
+                                },
+                                {
+                                        "m_iGoodsID" : 1497,
+                                        "m_iLoadedGoodsAmount" : 7,
+                                        "m_iTransferAmount" : 7,
+                                        "m_sArriveLocationCode" : "231",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "44"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "228"
+                                },
+                                {
+                                        "setTravelingRoute" : "231"
+                                }
+                        ]
+                },
+                {
+                        "GoodsVolume" : 11.629,
+                        "GoodsWeight" : 122000.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.96908330917358398,
+                                "m_fMaxWeightRatio" : 0.030500000342726707,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "1003"
+                        },
+                        "LoadingTime" : 50,
+                        "MaxVolumeDistance" : 251328.0,
+                        "MaxWeightDistance" : 83776000000.0,
+                        "UnLoadingTime" : 30,
+                        "VolumeDistance" : 120906.71299999999,
+                        "WeightDistance" : 1268434000.0,
+                        "m_dWithGoodsDistance" : 10397.0,
+                        "m_fTransferDistance" : 10397.0,
+                        "m_fTransferedFee" : 12732.400390625,
+                        "m_fVolumeDistanceRatio" : 0.48107140071937859,
+                        "m_fWeightDistanceRatio" : 0.015140780175706647,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "1003",
+                        "m_sPureRunTime" : 19.0,
+                        "m_sRunTime" : 99.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : 11.629,
+                                        "LoadWei" : 122000.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/07/24 06:51:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 06:51:00",
+                                        "alt_LeaveTime" : "2019/07/24 07:41:00",
+                                        "alt_StartTime" : "2019/07/24 06:51:00",
+                                        "m_fMaxVolumeRatio" : 13.681176470588236,
+                                        "m_fMaxWeightRatio" : 0.030499999999999999,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "228",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1526,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "47"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1520,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "41"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1523,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1522,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "43"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1527,
+                                                                        "m_iLoadedGoodsAmount" : 1,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 1,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "48"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/07/24 08:00:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 08:30:00",
+                                        "alt_LeaveTime" : "2019/07/24 08:30:00",
+                                        "alt_StartTime" : "2019/07/24 07:41:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "257",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1526,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "47"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1520,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "41"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1523,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1522,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "43"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1527,
+                                                                        "m_iLoadedGoodsAmount" : 1,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 1,
+                                                                        "m_sArriveLocationCode" : "257",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "48"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 1526,
+                                        "m_iLoadedGoodsAmount" : 10,
+                                        "m_iTransferAmount" : 10,
+                                        "m_sArriveLocationCode" : "257",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "47"
+                                },
+                                {
+                                        "m_iGoodsID" : 1520,
+                                        "m_iLoadedGoodsAmount" : 10,
+                                        "m_iTransferAmount" : 10,
+                                        "m_sArriveLocationCode" : "257",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "41"
+                                },
+                                {
+                                        "m_iGoodsID" : 1523,
+                                        "m_iLoadedGoodsAmount" : 10,
+                                        "m_iTransferAmount" : 10,
+                                        "m_sArriveLocationCode" : "257",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "44"
+                                },
+                                {
+                                        "m_iGoodsID" : 1522,
+                                        "m_iLoadedGoodsAmount" : 8,
+                                        "m_iTransferAmount" : 8,
+                                        "m_sArriveLocationCode" : "257",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "43"
+                                },
+                                {
+                                        "m_iGoodsID" : 1527,
+                                        "m_iLoadedGoodsAmount" : 1,
+                                        "m_iTransferAmount" : 1,
+                                        "m_sArriveLocationCode" : "257",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "48"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "228"
+                                },
+                                {
+                                        "setTravelingRoute" : "257"
+                                }
+                        ]
+                },
+                {
+                        "GoodsVolume" : 11.4,
+                        "GoodsWeight" : 50400.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.94999998807907104,
+                                "m_fMaxWeightRatio" : 0.012600000016391277,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "1003"
+                        },
+                        "LoadingTime" : 50,
+                        "MaxVolumeDistance" : 995508.0,
+                        "MaxWeightDistance" : 331836000000.0,
+                        "UnLoadingTime" : 30,
+                        "VolumeDistance" : 470899.79999999999,
+                        "WeightDistance" : 2081872800.0,
+                        "m_dWithGoodsDistance" : 41307.0,
+                        "m_fTransferDistance" : 41307.0,
+                        "m_fTransferedFee" : 49824.3984375,
+                        "m_fVolumeDistanceRatio" : 0.47302462662278955,
+                        "m_fWeightDistanceRatio" : 0.0062738003109969985,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "1003",
+                        "m_sPureRunTime" : 59.0,
+                        "m_sRunTime" : 139.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : 11.4,
+                                        "LoadWei" : 50400.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/07/24 06:30:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 06:30:00",
+                                        "alt_LeaveTime" : "2019/07/24 07:20:00",
+                                        "alt_StartTime" : "2019/07/24 06:30:00",
+                                        "m_fMaxVolumeRatio" : 13.411764705882353,
+                                        "m_fMaxWeightRatio" : 0.0126,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "228",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1519,
+                                                                        "m_iLoadedGoodsAmount" : 12,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 12,
+                                                                        "m_sArriveLocationCode" : "250",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/07/24 08:19:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 08:49:00",
+                                        "alt_LeaveTime" : "2019/07/24 08:49:00",
+                                        "alt_StartTime" : "2019/07/24 07:20:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "250",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1519,
+                                                                        "m_iLoadedGoodsAmount" : 12,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 12,
+                                                                        "m_sArriveLocationCode" : "250",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 1519,
+                                        "m_iLoadedGoodsAmount" : 12,
+                                        "m_iTransferAmount" : 12,
+                                        "m_sArriveLocationCode" : "250",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "42"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "228"
+                                },
+                                {
+                                        "setTravelingRoute" : "250"
+                                }
+                        ]
+                },
+                {
+                        "GoodsVolume" : 11.4,
+                        "GoodsWeight" : 50400.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.94999998807907104,
+                                "m_fMaxWeightRatio" : 0.012600000016391277,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "1003"
+                        },
+                        "LoadingTime" : 50,
+                        "MaxVolumeDistance" : 995508.0,
+                        "MaxWeightDistance" : 331836000000.0,
+                        "UnLoadingTime" : 30,
+                        "VolumeDistance" : 470899.79999999999,
+                        "WeightDistance" : 2081872800.0,
+                        "m_dWithGoodsDistance" : 41307.0,
+                        "m_fTransferDistance" : 41307.0,
+                        "m_fTransferedFee" : 49824.3984375,
+                        "m_fVolumeDistanceRatio" : 0.47302462662278955,
+                        "m_fWeightDistanceRatio" : 0.0062738003109969985,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "1003",
+                        "m_sPureRunTime" : 59.0,
+                        "m_sRunTime" : 139.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : 11.4,
+                                        "LoadWei" : 50400.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/07/24 06:30:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 06:30:00",
+                                        "alt_LeaveTime" : "2019/07/24 07:20:00",
+                                        "alt_StartTime" : "2019/07/24 06:30:00",
+                                        "m_fMaxVolumeRatio" : 13.411764705882353,
+                                        "m_fMaxWeightRatio" : 0.0126,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "228",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1519,
+                                                                        "m_iLoadedGoodsAmount" : 12,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 12,
+                                                                        "m_sArriveLocationCode" : "250",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/07/24 08:19:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 08:49:00",
+                                        "alt_LeaveTime" : "2019/07/24 08:49:00",
+                                        "alt_StartTime" : "2019/07/24 07:20:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "250",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1519,
+                                                                        "m_iLoadedGoodsAmount" : 12,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 12,
+                                                                        "m_sArriveLocationCode" : "250",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 1519,
+                                        "m_iLoadedGoodsAmount" : 12,
+                                        "m_iTransferAmount" : 12,
+                                        "m_sArriveLocationCode" : "250",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "42"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "228"
+                                },
+                                {
+                                        "setTravelingRoute" : "250"
+                                }
+                        ]
+                },
+                {
+                        "GoodsVolume" : 19.969000000000001,
+                        "GoodsWeight" : 193500.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.7379259467124939,
+                                "m_fMaxWeightRatio" : 0.048374999314546585,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "10000012"
+                        },
+                        "LoadingTime" : 50,
+                        "MaxVolumeDistance" : 2602368.0,
+                        "MaxWeightDistance" : 385536000000.0,
+                        "UnLoadingTime" : 30,
+                        "VolumeDistance" : 959440.21999999997,
+                        "WeightDistance" : 9317992500.0,
+                        "m_dWithGoodsDistance" : 48155.0,
+                        "m_fTransferDistance" : 48155.0,
+                        "m_fTransferedFee" : 72402.5,
+                        "m_fVolumeDistanceRatio" : 0.36867968711573457,
+                        "m_fWeightDistanceRatio" : 0.024168929749750996,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "10000012",
+                        "m_sPureRunTime" : 68.0,
+                        "m_sRunTime" : 148.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : 19.923999999999999,
+                                        "LoadWei" : 193500.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/07/24 06:02:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 06:02:00",
+                                        "alt_LeaveTime" : "2019/07/24 06:52:00",
+                                        "alt_StartTime" : "2019/07/24 06:02:00",
+                                        "m_fMaxVolumeRatio" : 19.923999999999999,
+                                        "m_fMaxWeightRatio" : 0.048375000000000001,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "228",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1487,
+                                                                        "m_iLoadedGoodsAmount" : 15,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 15,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "40"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1488,
+                                                                        "m_iLoadedGoodsAmount" : 15,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 15,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "41"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1489,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1486,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "39"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1490,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "43"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/07/24 08:00:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 08:30:00",
+                                        "alt_LeaveTime" : "2019/07/24 08:30:00",
+                                        "alt_StartTime" : "2019/07/24 06:52:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "232",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1487,
+                                                                        "m_iLoadedGoodsAmount" : 15,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 15,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "40"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1488,
+                                                                        "m_iLoadedGoodsAmount" : 15,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 15,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "41"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1489,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1486,
+                                                                        "m_iLoadedGoodsAmount" : 10,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 10,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "39"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1490,
+                                                                        "m_iLoadedGoodsAmount" : 8,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 8,
+                                                                        "m_sArriveLocationCode" : "232",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "43"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 1487,
+                                        "m_iLoadedGoodsAmount" : 15,
+                                        "m_iTransferAmount" : 15,
+                                        "m_sArriveLocationCode" : "232",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "40"
+                                },
+                                {
+                                        "m_iGoodsID" : 1488,
+                                        "m_iLoadedGoodsAmount" : 15,
+                                        "m_iTransferAmount" : 15,
+                                        "m_sArriveLocationCode" : "232",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "41"
+                                },
+                                {
+                                        "m_iGoodsID" : 1489,
+                                        "m_iLoadedGoodsAmount" : 10,
+                                        "m_iTransferAmount" : 10,
+                                        "m_sArriveLocationCode" : "232",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "42"
+                                },
+                                {
+                                        "m_iGoodsID" : 1486,
+                                        "m_iLoadedGoodsAmount" : 10,
+                                        "m_iTransferAmount" : 10,
+                                        "m_sArriveLocationCode" : "232",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "39"
+                                },
+                                {
+                                        "m_iGoodsID" : 1490,
+                                        "m_iLoadedGoodsAmount" : 8,
+                                        "m_iTransferAmount" : 8,
+                                        "m_sArriveLocationCode" : "232",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "43"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "228"
+                                },
+                                {
+                                        "setTravelingRoute" : "232"
+                                }
+                        ]
+                },
+                {
+                        "GoodsVolume" : 18.246000000000002,
+                        "GoodsWeight" : 146400.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.45614999532699585,
+                                "m_fMaxWeightRatio" : 0.048799999058246613,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "1001"
+                        },
+                        "LoadingTime" : 50,
+                        "MaxVolumeDistance" : 4168920.0,
+                        "MaxWeightDistance" : 312669000000.0,
+                        "UnLoadingTime" : 30,
+                        "VolumeDistance" : 927608.39399999997,
+                        "WeightDistance" : 7442829600.0,
+                        "m_dWithGoodsDistance" : 50839.0,
+                        "m_fTransferDistance" : 50839.0,
+                        "m_fTransferedFee" : 76173.5,
+                        "m_fVolumeDistanceRatio" : 0.22250568348637056,
+                        "m_fWeightDistanceRatio" : 0.023804181418688772,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "1001",
+                        "m_sPureRunTime" : 57.0,
+                        "m_sRunTime" : 137.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : 18.245999999999999,
+                                        "LoadWei" : 146400.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/07/24 06:13:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 06:13:00",
+                                        "alt_LeaveTime" : "2019/07/24 07:03:00",
+                                        "alt_StartTime" : "2019/07/24 06:13:00",
+                                        "m_fMaxVolumeRatio" : 158.66086956521738,
+                                        "m_fMaxWeightRatio" : 0.048800000000000003,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "228",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1493,
+                                                                        "m_iLoadedGoodsAmount" : 18,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 18,
+                                                                        "m_sArriveLocationCode" : "242",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1491,
+                                                                        "m_iLoadedGoodsAmount" : 12,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 12,
+                                                                        "m_sArriveLocationCode" : "242",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1492,
+                                                                        "m_iLoadedGoodsAmount" : 12,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 12,
+                                                                        "m_sArriveLocationCode" : "242",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "43"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1494,
+                                                                        "m_iLoadedGoodsAmount" : 6,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 6,
+                                                                        "m_sArriveLocationCode" : "242",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "45"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/07/24 08:00:00",
+                                        "alt_HindWorkingTime" : "2019/07/24 08:30:00",
+                                        "alt_LeaveTime" : "2019/07/24 08:30:00",
+                                        "alt_StartTime" : "2019/07/24 07:03:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "242",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 1493,
+                                                                        "m_iLoadedGoodsAmount" : 18,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 18,
+                                                                        "m_sArriveLocationCode" : "242",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "44"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1491,
+                                                                        "m_iLoadedGoodsAmount" : 12,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 12,
+                                                                        "m_sArriveLocationCode" : "242",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "42"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1492,
+                                                                        "m_iLoadedGoodsAmount" : 12,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 12,
+                                                                        "m_sArriveLocationCode" : "242",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "43"
+                                                                },
+                                                                {
+                                                                        "m_iGoodsID" : 1494,
+                                                                        "m_iLoadedGoodsAmount" : 6,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 6,
+                                                                        "m_sArriveLocationCode" : "242",
+                                                                        "m_sDepartureLocationCode" : "228",
+                                                                        "m_sGoodsCode" : "45"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 1493,
+                                        "m_iLoadedGoodsAmount" : 18,
+                                        "m_iTransferAmount" : 18,
+                                        "m_sArriveLocationCode" : "242",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "44"
+                                },
+                                {
+                                        "m_iGoodsID" : 1491,
+                                        "m_iLoadedGoodsAmount" : 12,
+                                        "m_iTransferAmount" : 12,
+                                        "m_sArriveLocationCode" : "242",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "42"
+                                },
+                                {
+                                        "m_iGoodsID" : 1492,
+                                        "m_iLoadedGoodsAmount" : 12,
+                                        "m_iTransferAmount" : 12,
+                                        "m_sArriveLocationCode" : "242",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "43"
+                                },
+                                {
+                                        "m_iGoodsID" : 1494,
+                                        "m_iLoadedGoodsAmount" : 6,
+                                        "m_iTransferAmount" : 6,
+                                        "m_sArriveLocationCode" : "242",
+                                        "m_sDepartureLocationCode" : "228",
+                                        "m_sGoodsCode" : "45"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "228"
+                                },
+                                {
+                                        "setTravelingRoute" : "242"
+                                }
+                        ]
+                }
+        ],
+        "exceptionOrders" :
+        [
+                {
+                        "errorCode" : 6,
+                        "orderId" : 1477
+                },
+                {
+                        "errorCode" : 6,
+                        "orderId" : 1476
+                }
+        ]
+}
+
 
 
 {"AssignedVechiles":[{"GoodsVolume":12.48,"GoodsWeight":100000.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.69333332777023315,"m_fMaxWeightRatio":0.033333335071802139,"m_fWeightDistance":0.0,"m_sContainerName":"1002"},"LoadingTime":50,"MaxVolumeDistance":1394748.0,"MaxWeightDistance":232458000000.0,"UnLoadingTime":30,"VolumeDistance":437798.40000000002,"WeightDistance":3508000000.0,"m_dWithGoodsDistance":35080.0,"m_fTransferDistance":35080.0,"m_fTransferedFee":52805.0,"m_fVolumeDistanceRatio":0.31389068132737957,"m_fWeightDistanceRatio":0.015090898140739403,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"1002","m_sPureRunTime":46.0,"m_sRunTime":126.0,"vec_LocationWorkInfo":[{"LoadVol":12.48,"LoadWei":100000.0,"RoadID":0,"alt_ArriveTime":"2019/07/24 06:24:00","alt_HindWorkingTime":"2019/07/24 06:24:00","alt_LeaveTime":"2019/07/24 07:14:00","alt_StartTime":"2019/07/24 06:24:00","m_fMaxVolumeRatio":36.705882352941174,"m_fMaxWeightRatio":0.033333333333333333,"m_iPointOrderNo":0,"m_sLocationCode":"228","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":1509,"m_iLoadedGoodsAmount":16,"m_iSequence":0,"m_iTransferAmount":16,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1511,"m_iLoadedGoodsAmount":8,"m_iSequence":0,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"46"},{"m_iGoodsID":1510,"m_iLoadedGoodsAmount":8,"m_iSequence":0,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"45"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/07/24 08:00:00","alt_HindWorkingTime":"2019/07/24 08:30:00","alt_LeaveTime":"2019/07/24 08:30:00","alt_StartTime":"2019/07/24 07:14:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"246","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":1509,"m_iLoadedGoodsAmount":16,"m_iSequence":1,"m_iTransferAmount":16,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1511,"m_iLoadedGoodsAmount":8,"m_iSequence":1,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"46"},{"m_iGoodsID":1510,"m_iLoadedGoodsAmount":8,"m_iSequence":1,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"45"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":1509,"m_iLoadedGoodsAmount":16,"m_iTransferAmount":16,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1511,"m_iLoadedGoodsAmount":8,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"46"},{"m_iGoodsID":1510,"m_iLoadedGoodsAmount":8,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"45"}],"vec_TravelingRoute":[{"setTravelingRoute":"228"},{"setTravelingRoute":"246"}]},{"GoodsVolume":17.540000000000003,"GoodsWeight":175100.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.97444444894790649,"m_fMaxWeightRatio":0.058366667479276657,"m_fWeightDistance":0.0,"m_sContainerName":"1002"},"LoadingTime":50,"MaxVolumeDistance":1394748.0,"MaxWeightDistance":232458000000.0,"UnLoadingTime":30,"VolumeDistance":615303.19999999995,"WeightDistance":6142508000.0,"m_dWithGoodsDistance":35080.0,"m_fTransferDistance":35080.0,"m_fTransferedFee":52805.0,"m_fVolumeDistanceRatio":0.44115725564761515,"m_fWeightDistanceRatio":0.026424162644434694,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"1002","m_sPureRunTime":46.0,"m_sRunTime":126.0,"vec_LocationWorkInfo":[{"LoadVol":17.539999999999999,"LoadWei":175100.0,"RoadID":0,"alt_ArriveTime":"2019/07/24 06:24:00","alt_HindWorkingTime":"2019/07/24 06:24:00","alt_LeaveTime":"2019/07/24 07:14:00","alt_StartTime":"2019/07/24 06:24:00","m_fMaxVolumeRatio":51.588235294117645,"m_fMaxWeightRatio":0.058366666666666664,"m_iPointOrderNo":0,"m_sLocationCode":"228","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":1504,"m_iLoadedGoodsAmount":13,"m_iSequence":0,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"39"},{"m_iGoodsID":1506,"m_iLoadedGoodsAmount":13,"m_iSequence":0,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"41"},{"m_iGoodsID":1512,"m_iLoadedGoodsAmount":8,"m_iSequence":0,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"47"},{"m_iGoodsID":1513,"m_iLoadedGoodsAmount":8,"m_iSequence":0,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"48"},{"m_iGoodsID":1509,"m_iLoadedGoodsAmount":8,"m_iSequence":0,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/07/24 08:00:00","alt_HindWorkingTime":"2019/07/24 08:30:00","alt_LeaveTime":"2019/07/24 08:30:00","alt_StartTime":"2019/07/24 07:14:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"246","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":1504,"m_iLoadedGoodsAmount":13,"m_iSequence":1,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"39"},{"m_iGoodsID":1506,"m_iLoadedGoodsAmount":13,"m_iSequence":1,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"41"},{"m_iGoodsID":1512,"m_iLoadedGoodsAmount":8,"m_iSequence":1,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"47"},{"m_iGoodsID":1513,"m_iLoadedGoodsAmount":8,"m_iSequence":1,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"48"},{"m_iGoodsID":1509,"m_iLoadedGoodsAmount":8,"m_iSequence":1,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":1504,"m_iLoadedGoodsAmount":13,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"39"},{"m_iGoodsID":1506,"m_iLoadedGoodsAmount":13,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"41"},{"m_iGoodsID":1512,"m_iLoadedGoodsAmount":8,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"47"},{"m_iGoodsID":1513,"m_iLoadedGoodsAmount":8,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"48"},{"m_iGoodsID":1509,"m_iLoadedGoodsAmount":8,"m_iTransferAmount":8,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"}],"vec_TravelingRoute":[{"setTravelingRoute":"228"},{"setTravelingRoute":"246"}]},{"GoodsVolume":17.335499999999996,"GoodsWeight":126100.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.96091663837432861,"m_fMaxWeightRatio":0.042033333331346512,"m_fWeightDistance":0.0,"m_sContainerName":"1002"},"LoadingTime":50,"MaxVolumeDistance":1394748.0,"MaxWeightDistance":232458000000.0,"UnLoadingTime":30,"VolumeDistance":606761.22000000009,"WeightDistance":4423588000.0,"m_dWithGoodsDistance":35080.0,"m_fTransferDistance":35080.0,"m_fTransferedFee":52805.0,"m_fVolumeDistanceRatio":0.43503286615216519,"m_fWeightDistanceRatio":0.019029622555472386,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"1002","m_sPureRunTime":46.0,"m_sRunTime":126.0,"vec_LocationWorkInfo":[{"LoadVol":17.296500000000002,"LoadWei":126100.0,"RoadID":0,"alt_ArriveTime":"2019/07/24 06:24:00","alt_HindWorkingTime":"2019/07/24 06:24:00","alt_LeaveTime":"2019/07/24 07:14:00","alt_StartTime":"2019/07/24 06:24:00","m_fMaxVolumeRatio":50.872058823529414,"m_fMaxWeightRatio":0.042033333333333332,"m_iPointOrderNo":0,"m_sLocationCode":"228","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":1507,"m_iLoadedGoodsAmount":13,"m_iSequence":0,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"},{"m_iGoodsID":1505,"m_iLoadedGoodsAmount":13,"m_iSequence":0,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"40"},{"m_iGoodsID":1508,"m_iLoadedGoodsAmount":13,"m_iSequence":0,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/07/24 08:00:00","alt_HindWorkingTime":"2019/07/24 08:30:00","alt_LeaveTime":"2019/07/24 08:30:00","alt_StartTime":"2019/07/24 07:14:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"246","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":1507,"m_iLoadedGoodsAmount":13,"m_iSequence":1,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"},{"m_iGoodsID":1505,"m_iLoadedGoodsAmount":13,"m_iSequence":1,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"40"},{"m_iGoodsID":1508,"m_iLoadedGoodsAmount":13,"m_iSequence":1,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":1507,"m_iLoadedGoodsAmount":13,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"},{"m_iGoodsID":1505,"m_iLoadedGoodsAmount":13,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"40"},{"m_iGoodsID":1508,"m_iLoadedGoodsAmount":13,"m_iTransferAmount":13,"m_sArriveLocationCode":"246","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"}],"vec_TravelingRoute":[{"setTravelingRoute":"228"},{"setTravelingRoute":"246"}]},{"GoodsVolume":11.9,"GoodsWeight":108500.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.99166667461395264,"m_fMaxWeightRatio":0.027124999091029167,"m_fWeightDistance":0.0,"m_sContainerName":"1003"},"LoadingTime":50,"MaxVolumeDistance":987276.0,"MaxWeightDistance":329092000000.0,"UnLoadingTime":30,"VolumeDistance":450748.20000000001,"WeightDistance":4109763000.0,"m_dWithGoodsDistance":37878.0,"m_fTransferDistance":37878.0,"m_fTransferedFee":45709.6015625,"m_fVolumeDistanceRatio":0.45655743682617628,"m_fWeightDistanceRatio":0.012488188713186587,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"1003","m_sPureRunTime":49.0,"m_sRunTime":129.0,"vec_LocationWorkInfo":[{"LoadVol":11.9,"LoadWei":108500.0,"RoadID":0,"alt_ArriveTime":"2019/07/24 06:21:00","alt_HindWorkingTime":"2019/07/24 06:21:00","alt_LeaveTime":"2019/07/24 07:11:00","alt_StartTime":"2019/07/24 06:21:00","m_fMaxVolumeRatio":14.0,"m_fMaxWeightRatio":0.027125,"m_iPointOrderNo":0,"m_sLocationCode":"228","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":1499,"m_iLoadedGoodsAmount":7,"m_iSequence":0,"m_iTransferAmount":7,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"46"},{"m_iGoodsID":1498,"m_iLoadedGoodsAmount":7,"m_iSequence":0,"m_iTransferAmount":7,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"45"},{"m_iGoodsID":1497,"m_iLoadedGoodsAmount":21,"m_iSequence":0,"m_iTransferAmount":21,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/07/24 08:00:00","alt_HindWorkingTime":"2019/07/24 08:30:00","alt_LeaveTime":"2019/07/24 08:30:00","alt_StartTime":"2019/07/24 07:11:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"231","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":1499,"m_iLoadedGoodsAmount":7,"m_iSequence":1,"m_iTransferAmount":7,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"46"},{"m_iGoodsID":1498,"m_iLoadedGoodsAmount":7,"m_iSequence":1,"m_iTransferAmount":7,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"45"},{"m_iGoodsID":1497,"m_iLoadedGoodsAmount":21,"m_iSequence":1,"m_iTransferAmount":21,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":1499,"m_iLoadedGoodsAmount":7,"m_iTransferAmount":7,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"46"},{"m_iGoodsID":1498,"m_iLoadedGoodsAmount":7,"m_iTransferAmount":7,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"45"},{"m_iGoodsID":1497,"m_iLoadedGoodsAmount":7,"m_iTransferAmount":7,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1497,"m_iLoadedGoodsAmount":7,"m_iTransferAmount":7,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1497,"m_iLoadedGoodsAmount":7,"m_iTransferAmount":7,"m_sArriveLocationCode":"231","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"}],"vec_TravelingRoute":[{"setTravelingRoute":"228"},{"setTravelingRoute":"231"}]},{"GoodsVolume":11.629,"GoodsWeight":122000.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.96908330917358398,"m_fMaxWeightRatio":0.030500000342726707,"m_fWeightDistance":0.0,"m_sContainerName":"1003"},"LoadingTime":50,"MaxVolumeDistance":251328.0,"MaxWeightDistance":83776000000.0,"UnLoadingTime":30,"VolumeDistance":120906.71299999999,"WeightDistance":1268434000.0,"m_dWithGoodsDistance":10397.0,"m_fTransferDistance":10397.0,"m_fTransferedFee":12732.400390625,"m_fVolumeDistanceRatio":0.48107140071937859,"m_fWeightDistanceRatio":0.015140780175706647,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"1003","m_sPureRunTime":19.0,"m_sRunTime":99.0,"vec_LocationWorkInfo":[{"LoadVol":11.629,"LoadWei":122000.0,"RoadID":0,"alt_ArriveTime":"2019/07/24 06:51:00","alt_HindWorkingTime":"2019/07/24 06:51:00","alt_LeaveTime":"2019/07/24 07:41:00","alt_StartTime":"2019/07/24 06:51:00","m_fMaxVolumeRatio":13.681176470588236,"m_fMaxWeightRatio":0.030499999999999999,"m_iPointOrderNo":0,"m_sLocationCode":"228","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":1526,"m_iLoadedGoodsAmount":10,"m_iSequence":0,"m_iTransferAmount":10,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"47"},{"m_iGoodsID":1520,"m_iLoadedGoodsAmount":10,"m_iSequence":0,"m_iTransferAmount":10,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"41"},{"m_iGoodsID":1523,"m_iLoadedGoodsAmount":10,"m_iSequence":0,"m_iTransferAmount":10,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1522,"m_iLoadedGoodsAmount":8,"m_iSequence":0,"m_iTransferAmount":8,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"},{"m_iGoodsID":1527,"m_iLoadedGoodsAmount":1,"m_iSequence":0,"m_iTransferAmount":1,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"48"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/07/24 08:00:00","alt_HindWorkingTime":"2019/07/24 08:30:00","alt_LeaveTime":"2019/07/24 08:30:00","alt_StartTime":"2019/07/24 07:41:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"257","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":1526,"m_iLoadedGoodsAmount":10,"m_iSequence":1,"m_iTransferAmount":10,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"47"},{"m_iGoodsID":1520,"m_iLoadedGoodsAmount":10,"m_iSequence":1,"m_iTransferAmount":10,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"41"},{"m_iGoodsID":1523,"m_iLoadedGoodsAmount":10,"m_iSequence":1,"m_iTransferAmount":10,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1522,"m_iLoadedGoodsAmount":8,"m_iSequence":1,"m_iTransferAmount":8,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"},{"m_iGoodsID":1527,"m_iLoadedGoodsAmount":1,"m_iSequence":1,"m_iTransferAmount":1,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"48"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":1526,"m_iLoadedGoodsAmount":10,"m_iTransferAmount":10,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"47"},{"m_iGoodsID":1520,"m_iLoadedGoodsAmount":10,"m_iTransferAmount":10,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"41"},{"m_iGoodsID":1523,"m_iLoadedGoodsAmount":10,"m_iTransferAmount":10,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1522,"m_iLoadedGoodsAmount":8,"m_iTransferAmount":8,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"},{"m_iGoodsID":1527,"m_iLoadedGoodsAmount":1,"m_iTransferAmount":1,"m_sArriveLocationCode":"257","m_sDepartureLocationCode":"228","m_sGoodsCode":"48"}],"vec_TravelingRoute":[{"setTravelingRoute":"228"},{"setTravelingRoute":"257"}]},{"GoodsVolume":11.4,"GoodsWeight":50400.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.94999998807907104,"m_fMaxWeightRatio":0.012600000016391277,"m_fWeightDistance":0.0,"m_sContainerName":"1003"},"LoadingTime":50,"MaxVolumeDistance":995508.0,"MaxWeightDistance":331836000000.0,"UnLoadingTime":30,"VolumeDistance":470899.79999999999,"WeightDistance":2081872800.0,"m_dWithGoodsDistance":41307.0,"m_fTransferDistance":41307.0,"m_fTransferedFee":49824.3984375,"m_fVolumeDistanceRatio":0.47302462662278955,"m_fWeightDistanceRatio":0.0062738003109969985,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"1003","m_sPureRunTime":59.0,"m_sRunTime":139.0,"vec_LocationWorkInfo":[{"LoadVol":11.4,"LoadWei":50400.0,"RoadID":0,"alt_ArriveTime":"2019/07/24 06:30:00","alt_HindWorkingTime":"2019/07/24 06:30:00","alt_LeaveTime":"2019/07/24 07:20:00","alt_StartTime":"2019/07/24 06:30:00","m_fMaxVolumeRatio":13.411764705882353,"m_fMaxWeightRatio":0.0126,"m_iPointOrderNo":0,"m_sLocationCode":"228","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":1519,"m_iLoadedGoodsAmount":12,"m_iSequence":0,"m_iTransferAmount":12,"m_sArriveLocationCode":"250","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/07/24 08:19:00","alt_HindWorkingTime":"2019/07/24 08:49:00","alt_LeaveTime":"2019/07/24 08:49:00","alt_StartTime":"2019/07/24 07:20:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"250","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":1519,"m_iLoadedGoodsAmount":12,"m_iSequence":1,"m_iTransferAmount":12,"m_sArriveLocationCode":"250","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":1519,"m_iLoadedGoodsAmount":12,"m_iTransferAmount":12,"m_sArriveLocationCode":"250","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"}],"vec_TravelingRoute":[{"setTravelingRoute":"228"},{"setTravelingRoute":"250"}]},{"GoodsVolume":11.4,"GoodsWeight":50400.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.94999998807907104,"m_fMaxWeightRatio":0.012600000016391277,"m_fWeightDistance":0.0,"m_sContainerName":"1003"},"LoadingTime":50,"MaxVolumeDistance":995508.0,"MaxWeightDistance":331836000000.0,"UnLoadingTime":30,"VolumeDistance":470899.79999999999,"WeightDistance":2081872800.0,"m_dWithGoodsDistance":41307.0,"m_fTransferDistance":41307.0,"m_fTransferedFee":49824.3984375,"m_fVolumeDistanceRatio":0.47302462662278955,"m_fWeightDistanceRatio":0.0062738003109969985,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"1003","m_sPureRunTime":59.0,"m_sRunTime":139.0,"vec_LocationWorkInfo":[{"LoadVol":11.4,"LoadWei":50400.0,"RoadID":0,"alt_ArriveTime":"2019/07/24 06:30:00","alt_HindWorkingTime":"2019/07/24 06:30:00","alt_LeaveTime":"2019/07/24 07:20:00","alt_StartTime":"2019/07/24 06:30:00","m_fMaxVolumeRatio":13.411764705882353,"m_fMaxWeightRatio":0.0126,"m_iPointOrderNo":0,"m_sLocationCode":"228","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":1519,"m_iLoadedGoodsAmount":12,"m_iSequence":0,"m_iTransferAmount":12,"m_sArriveLocationCode":"250","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/07/24 08:19:00","alt_HindWorkingTime":"2019/07/24 08:49:00","alt_LeaveTime":"2019/07/24 08:49:00","alt_StartTime":"2019/07/24 07:20:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"250","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":1519,"m_iLoadedGoodsAmount":12,"m_iSequence":1,"m_iTransferAmount":12,"m_sArriveLocationCode":"250","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":1519,"m_iLoadedGoodsAmount":12,"m_iTransferAmount":12,"m_sArriveLocationCode":"250","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"}],"vec_TravelingRoute":[{"setTravelingRoute":"228"},{"setTravelingRoute":"250"}]},{"GoodsVolume":19.969000000000001,"GoodsWeight":193500.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.7379259467124939,"m_fMaxWeightRatio":0.048374999314546585,"m_fWeightDistance":0.0,"m_sContainerName":"10000012"},"LoadingTime":50,"MaxVolumeDistance":2602368.0,"MaxWeightDistance":385536000000.0,"UnLoadingTime":30,"VolumeDistance":959440.21999999997,"WeightDistance":9317992500.0,"m_dWithGoodsDistance":48155.0,"m_fTransferDistance":48155.0,"m_fTransferedFee":72402.5,"m_fVolumeDistanceRatio":0.36867968711573457,"m_fWeightDistanceRatio":0.024168929749750996,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"10000012","m_sPureRunTime":68.0,"m_sRunTime":148.0,"vec_LocationWorkInfo":[{"LoadVol":19.923999999999999,"LoadWei":193500.0,"RoadID":0,"alt_ArriveTime":"2019/07/24 06:02:00","alt_HindWorkingTime":"2019/07/24 06:02:00","alt_LeaveTime":"2019/07/24 06:52:00","alt_StartTime":"2019/07/24 06:02:00","m_fMaxVolumeRatio":19.923999999999999,"m_fMaxWeightRatio":0.048375000000000001,"m_iPointOrderNo":0,"m_sLocationCode":"228","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":1487,"m_iLoadedGoodsAmount":15,"m_iSequence":0,"m_iTransferAmount":15,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"40"},{"m_iGoodsID":1488,"m_iLoadedGoodsAmount":15,"m_iSequence":0,"m_iTransferAmount":15,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"41"},{"m_iGoodsID":1489,"m_iLoadedGoodsAmount":10,"m_iSequence":0,"m_iTransferAmount":10,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"},{"m_iGoodsID":1486,"m_iLoadedGoodsAmount":10,"m_iSequence":0,"m_iTransferAmount":10,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"39"},{"m_iGoodsID":1490,"m_iLoadedGoodsAmount":8,"m_iSequence":0,"m_iTransferAmount":8,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/07/24 08:00:00","alt_HindWorkingTime":"2019/07/24 08:30:00","alt_LeaveTime":"2019/07/24 08:30:00","alt_StartTime":"2019/07/24 06:52:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"232","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":1487,"m_iLoadedGoodsAmount":15,"m_iSequence":1,"m_iTransferAmount":15,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"40"},{"m_iGoodsID":1488,"m_iLoadedGoodsAmount":15,"m_iSequence":1,"m_iTransferAmount":15,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"41"},{"m_iGoodsID":1489,"m_iLoadedGoodsAmount":10,"m_iSequence":1,"m_iTransferAmount":10,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"},{"m_iGoodsID":1486,"m_iLoadedGoodsAmount":10,"m_iSequence":1,"m_iTransferAmount":10,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"39"},{"m_iGoodsID":1490,"m_iLoadedGoodsAmount":8,"m_iSequence":1,"m_iTransferAmount":8,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":1487,"m_iLoadedGoodsAmount":15,"m_iTransferAmount":15,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"40"},{"m_iGoodsID":1488,"m_iLoadedGoodsAmount":15,"m_iTransferAmount":15,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"41"},{"m_iGoodsID":1489,"m_iLoadedGoodsAmount":10,"m_iTransferAmount":10,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"},{"m_iGoodsID":1486,"m_iLoadedGoodsAmount":10,"m_iTransferAmount":10,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"39"},{"m_iGoodsID":1490,"m_iLoadedGoodsAmount":8,"m_iTransferAmount":8,"m_sArriveLocationCode":"232","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"}],"vec_TravelingRoute":[{"setTravelingRoute":"228"},{"setTravelingRoute":"232"}]},{"GoodsVolume":18.246000000000002,"GoodsWeight":146400.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.45614999532699585,"m_fMaxWeightRatio":0.048799999058246613,"m_fWeightDistance":0.0,"m_sContainerName":"1001"},"LoadingTime":50,"MaxVolumeDistance":4168920.0,"MaxWeightDistance":312669000000.0,"UnLoadingTime":30,"VolumeDistance":927608.39399999997,"WeightDistance":7442829600.0,"m_dWithGoodsDistance":50839.0,"m_fTransferDistance":50839.0,"m_fTransferedFee":76173.5,"m_fVolumeDistanceRatio":0.22250568348637056,"m_fWeightDistanceRatio":0.023804181418688772,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"1001","m_sPureRunTime":57.0,"m_sRunTime":137.0,"vec_LocationWorkInfo":[{"LoadVol":18.245999999999999,"LoadWei":146400.0,"RoadID":0,"alt_ArriveTime":"2019/07/24 06:13:00","alt_HindWorkingTime":"2019/07/24 06:13:00","alt_LeaveTime":"2019/07/24 07:03:00","alt_StartTime":"2019/07/24 06:13:00","m_fMaxVolumeRatio":158.66086956521738,"m_fMaxWeightRatio":0.048800000000000003,"m_iPointOrderNo":0,"m_sLocationCode":"228","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":1493,"m_iLoadedGoodsAmount":18,"m_iSequence":0,"m_iTransferAmount":18,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1491,"m_iLoadedGoodsAmount":12,"m_iSequence":0,"m_iTransferAmount":12,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"},{"m_iGoodsID":1492,"m_iLoadedGoodsAmount":12,"m_iSequence":0,"m_iTransferAmount":12,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"},{"m_iGoodsID":1494,"m_iLoadedGoodsAmount":6,"m_iSequence":0,"m_iTransferAmount":6,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"45"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/07/24 08:00:00","alt_HindWorkingTime":"2019/07/24 08:30:00","alt_LeaveTime":"2019/07/24 08:30:00","alt_StartTime":"2019/07/24 07:03:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"242","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":1493,"m_iLoadedGoodsAmount":18,"m_iSequence":1,"m_iTransferAmount":18,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1491,"m_iLoadedGoodsAmount":12,"m_iSequence":1,"m_iTransferAmount":12,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"},{"m_iGoodsID":1492,"m_iLoadedGoodsAmount":12,"m_iSequence":1,"m_iTransferAmount":12,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"},{"m_iGoodsID":1494,"m_iLoadedGoodsAmount":6,"m_iSequence":1,"m_iTransferAmount":6,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"45"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":1493,"m_iLoadedGoodsAmount":18,"m_iTransferAmount":18,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"44"},{"m_iGoodsID":1491,"m_iLoadedGoodsAmount":12,"m_iTransferAmount":12,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"42"},{"m_iGoodsID":1492,"m_iLoadedGoodsAmount":12,"m_iTransferAmount":12,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"43"},{"m_iGoodsID":1494,"m_iLoadedGoodsAmount":6,"m_iTransferAmount":6,"m_sArriveLocationCode":"242","m_sDepartureLocationCode":"228","m_sGoodsCode":"45"}],"vec_TravelingRoute":[{"setTravelingRoute":"228"},{"setTravelingRoute":"242"}]}],"exceptionOrders":[{"errorCode":6,"orderId":1477},{"errorCode":6,"orderId":1476}]}
@@ -6697,6 +8275,124 @@ vec_DeliveryResultOfCurrentPlan OK OK!
 
 
 ExportData start!
+
+
+{
+        "AssignedVechiles" :
+        [
+                {
+                        "GoodsVolume" : 72.0,
+                        "GoodsWeight" : 30.0,
+                        "LoadedContainerInfo" :
+                        {
+                                "m_fMaxVolumeRatio" : 0.0,
+                                "m_fMaxWeightRatio" : 0.0012000000569969416,
+                                "m_fWeightDistance" : 0.0,
+                                "m_sContainerName" : "10000024"
+                        },
+                        "LoadingTime" : 30,
+                        "MaxVolumeDistance" : 3609120.0,
+                        "MaxWeightDistance" : 1127850000.0,
+                        "UnLoadingTime" : 20,
+                        "VolumeDistance" : -122328.83699712002,
+                        "WeightDistance" : 691200.0,
+                        "m_dWithGoodsDistance" : 23040.0,
+                        "m_fTransferDistance" : 23040.0,
+                        "m_fTransferedFee" : 13766000.0,
+                        "m_fVolumeDistanceRatio" : -0.033894366770049214,
+                        "m_fWeightDistanceRatio" : 0.00061284745311876584,
+                        "m_fWithGoodsRatio" : 1.0,
+                        "m_iPlanID" : 0,
+                        "m_sContainerName" : "10000024",
+                        "m_sPureRunTime" : 45.0,
+                        "m_sRunTime" : 95.0,
+                        "vec_LocationWorkInfo" :
+                        [
+                                {
+                                        "LoadVol" : -5.3094113280000004,
+                                        "LoadWei" : 30.0,
+                                        "RoadID" : 0,
+                                        "alt_ArriveTime" : "2019/12/04 08:30:00",
+                                        "alt_HindWorkingTime" : "2019/12/04 08:30:00",
+                                        "alt_LeaveTime" : "2019/12/04 09:00:00",
+                                        "alt_StartTime" : "2019/12/04 08:30:00",
+                                        "m_fMaxVolumeRatio" : -0.070792151040000001,
+                                        "m_fMaxWeightRatio" : 0.0011999999999999999,
+                                        "m_iPointOrderNo" : 0,
+                                        "m_sLocationCode" : "26",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 0,
+                                                        "vec_OrderVectorIn" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 132,
+                                                                        "m_iLoadedGoodsAmount" : 3,
+                                                                        "m_iSequence" : 0,
+                                                                        "m_iTransferAmount" : 3,
+                                                                        "m_sArriveLocationCode" : "30",
+                                                                        "m_sDepartureLocationCode" : "26",
+                                                                        "m_sGoodsCode" : "84"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                },
+                                {
+                                        "LoadVol" : 0.0,
+                                        "LoadWei" : 0.0,
+                                        "alt_ArriveTime" : "2019/12/04 09:45:00",
+                                        "alt_HindWorkingTime" : "2019/12/04 10:05:00",
+                                        "alt_LeaveTime" : "2019/12/04 10:05:00",
+                                        "alt_StartTime" : "2019/12/04 09:00:00",
+                                        "m_fMaxVolumeRatio" : 0.0,
+                                        "m_fMaxWeightRatio" : 0.0,
+                                        "m_iPointOrderNo" : 1,
+                                        "m_sLocationCode" : "30",
+                                        "vec_ListLoadedAndOrder" :
+                                        [
+                                                {
+                                                        "m_iLoadID" : 1,
+                                                        "vec_OrderVectorOut" :
+                                                        [
+                                                                {
+                                                                        "m_iGoodsID" : 132,
+                                                                        "m_iLoadedGoodsAmount" : 3,
+                                                                        "m_iSequence" : 1,
+                                                                        "m_iTransferAmount" : 3,
+                                                                        "m_sArriveLocationCode" : "30",
+                                                                        "m_sDepartureLocationCode" : "26",
+                                                                        "m_sGoodsCode" : "84"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                }
+                        ],
+                        "vec_TransferOrders" :
+                        [
+                                {
+                                        "m_iGoodsID" : 132,
+                                        "m_iLoadedGoodsAmount" : 3,
+                                        "m_iTransferAmount" : 3,
+                                        "m_sArriveLocationCode" : "30",
+                                        "m_sDepartureLocationCode" : "26",
+                                        "m_sGoodsCode" : "84"
+                                }
+                        ],
+                        "vec_TravelingRoute" :
+                        [
+                                {
+                                        "setTravelingRoute" : "26"
+                                },
+                                {
+                                        "setTravelingRoute" : "30"
+                                }
+                        ]
+                }
+        ]
+}
 
 
 {"AssignedVechiles":[{"GoodsVolume":72.0,"GoodsWeight":30.0,"LoadedContainerInfo":{"m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0012000000569969416,"m_fWeightDistance":0.0,"m_sContainerName":"10000024"},"LoadingTime":30,"MaxVolumeDistance":3609120.0,"MaxWeightDistance":1127850000.0,"UnLoadingTime":20,"VolumeDistance":-122328.83699712002,"WeightDistance":691200.0,"m_dWithGoodsDistance":23040.0,"m_fTransferDistance":23040.0,"m_fTransferedFee":13766000.0,"m_fVolumeDistanceRatio":-0.033894366770049214,"m_fWeightDistanceRatio":0.00061284745311876584,"m_fWithGoodsRatio":1.0,"m_iPlanID":0,"m_sContainerName":"10000024","m_sPureRunTime":45.0,"m_sRunTime":95.0,"vec_LocationWorkInfo":[{"LoadVol":-5.3094113280000004,"LoadWei":30.0,"RoadID":0,"alt_ArriveTime":"2019/12/04 08:30:00","alt_HindWorkingTime":"2019/12/04 08:30:00","alt_LeaveTime":"2019/12/04 09:00:00","alt_StartTime":"2019/12/04 08:30:00","m_fMaxVolumeRatio":-0.070792151040000001,"m_fMaxWeightRatio":0.0011999999999999999,"m_iPointOrderNo":0,"m_sLocationCode":"26","vec_ListLoadedAndOrder":[{"m_iLoadID":0,"vec_OrderVectorIn":[{"m_iGoodsID":132,"m_iLoadedGoodsAmount":3,"m_iSequence":0,"m_iTransferAmount":3,"m_sArriveLocationCode":"30","m_sDepartureLocationCode":"26","m_sGoodsCode":"84"}]}]},{"LoadVol":0.0,"LoadWei":0.0,"alt_ArriveTime":"2019/12/04 09:45:00","alt_HindWorkingTime":"2019/12/04 10:05:00","alt_LeaveTime":"2019/12/04 10:05:00","alt_StartTime":"2019/12/04 09:00:00","m_fMaxVolumeRatio":0.0,"m_fMaxWeightRatio":0.0,"m_iPointOrderNo":1,"m_sLocationCode":"30","vec_ListLoadedAndOrder":[{"m_iLoadID":1,"vec_OrderVectorOut":[{"m_iGoodsID":132,"m_iLoadedGoodsAmount":3,"m_iSequence":1,"m_iTransferAmount":3,"m_sArriveLocationCode":"30","m_sDepartureLocationCode":"26","m_sGoodsCode":"84"}]}]}],"vec_TransferOrders":[{"m_iGoodsID":132,"m_iLoadedGoodsAmount":3,"m_iTransferAmount":3,"m_sArriveLocationCode":"30","m_sDepartureLocationCode":"26","m_sGoodsCode":"84"}],"vec_TravelingRoute":[{"setTravelingRoute":"26"},{"setTravelingRoute":"30"}]}]}
